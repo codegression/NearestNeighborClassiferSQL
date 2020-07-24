@@ -1,5 +1,5 @@
 # NearestNeighborClassiferSQL
-An implmentation of the Nearest Neighbor classifier with the Euclidean distance metric in SQL.
+An implmentation of the Nearest Neighbor classifier with the Euclidean distance as the distance metric in SQL.
 
 
 Load data into the 'trainingset' table and the 'testset' table. Or run 'Create trainingdata.sql' and 'Create testdata.sql' to use dummy data.
