@@ -4,12 +4,12 @@ An implemenation of the Nearest Neighbor classifier in SQL.
 
 Load data into the 'trainingset' table and the 'testset' table. Or run 'Create trainingdata.sql' and 'Create testdata.sql' to use dummy data.
 
-*Example of trainingset*<br/>
+*Example of trainingset (partial)*<br/>
 ![Screenshot](Screenshots/1.png)
 
 
 
-*Example of testset*<br/>
+*Example of testset (partial)*<br/>
 ![Screenshot](Screenshots/2.png)
 
 
